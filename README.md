@@ -25,7 +25,7 @@
 * 4.我们不保证下列api是安全的,如有疑虑,请不要使用
 
 ### API地址
-* http://musicapi.s-yh-china.com
+* http://music.s-yh-china.com
 
 ### 加入此列表
 如果您也想为这份列表做贡献,您可以发起pr或issues提供您的api
