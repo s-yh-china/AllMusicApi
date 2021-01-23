@@ -2,7 +2,7 @@
 
 这里储存了公开使用的AllMusic外置api
 
-###使用方法
+##使用方法
 * 1.修改AllMusic服务端插件插件配置"config.json"中"Music_Url"一条为下列提供的api
   ```json
   "Music_Url": "api地址",
@@ -14,7 +14,7 @@
 * 3.输入/music reload 重载插件配置
 * 4.享受外置api
 
-###注意事项
+##注意事项
 * 1.不要登录,不要登录,不要登录,请保持"config"中"LoginUser"和"LoginPass"两条为空
   ```json
   "LoginUser": "",
@@ -24,13 +24,13 @@
 * 3.若发现失效的api,请发出issues
 * 4.我们不保证下列api是安全的,如有疑虑,请不要使用
 
-###API地址
+##API地址
 * http://musicapi.s-yh-china.com
 
-###加入此列表
+##加入此列表
 如果您也想为这份列表做贡献,您可以发起pr或issues提供您的api
 
-###外置api搭建教程
+##外置api搭建教程
 > 还是直接看 [这个](https://binaryify.github.io/NeteaseCloudMusicApi) 比较靠谱
 * 1.安装nodejs
 * 2.复制[此仓库](https://github.com/Binaryify/NeteaseCloudMusicApi)
