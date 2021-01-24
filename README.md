@@ -1,6 +1,6 @@
 # AllMusicApi
 
-这里储存了公开使用的AllMusic外置api
+这里储存了公开使用的AllMusic外置Api,需要配合 [插件](https://github.com/HeartAge/AllMusic_P) 使用
 
 ### 使用方法
 * 1.修改AllMusic服务端插件插件配置"config.json"中"Music_Url"一条为下列提供的api
@@ -24,7 +24,7 @@
 * 3.若发现失效的api,请发出issues
 * 4.我们不保证下列api是安全的,如有疑虑,请不要使用
 
-### API地址
+### API地址列表
 * http://music.s-yh-china.com
 
 ### 加入此列表
