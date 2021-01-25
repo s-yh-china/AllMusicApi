@@ -27,6 +27,7 @@
 ### API地址列表
 * http://music.s-yh-china.com
 * https://api.aliserver.net/zmusicapi
+* http://ali.mwx.xyz:3000
 
 ### 加入此列表
 如果您也想为这份列表做贡献,您可以发起pr或issues提供您的api
