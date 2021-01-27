@@ -23,7 +23,7 @@
   "LoginUser": "",
   "LoginPass": "",
   ```
-* 2.不要安装yum,不要安装yum,不要安装yum
+* 2.不要安装yum,不要安装yum,不要安装yum,如果你非要用yum那么请允许allmusic的网络请求 
 * 3.我们无偿提供公开api,请不要滥用服务
 * 4.若发现失效的api,请发出issues
 * 5.我们不保证下列api是安全的,如有疑虑,请不要使用
