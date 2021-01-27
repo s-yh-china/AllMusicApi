@@ -23,9 +23,10 @@
   "LoginUser": "",
   "LoginPass": "",
   ```
-* 2.我们无偿提供公开api,请不要滥用服务
-* 3.若发现失效的api,请发出issues
-* 4.我们不保证下列api是安全的,如有疑虑,请不要使用
+* 2.不要安装yum,不要安装yum,不要安装yum
+* 3.我们无偿提供公开api,请不要滥用服务
+* 4.若发现失效的api,请发出issues
+* 5.我们不保证下列api是安全的,如有疑虑,请不要使用
 
 ### API地址列表
 * http://music.s-yh-china.com
