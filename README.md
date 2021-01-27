@@ -30,7 +30,6 @@
 
 ### API地址列表
 * http://music.s-yh-china.com
-* https://api.aliserver.net/zmusicapi
 * http://api.mirai.cloud:3000
 
 ### 加入此列表
