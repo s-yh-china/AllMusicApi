@@ -31,6 +31,7 @@
 ### API地址列表
 * http://music.s-yh-china.com
 * http://api.mirai.cloud:3000
+* https://api.aliserver.net/zmusicapi 没失效,主页屏蔽了而已
 
 ### 加入此列表
 如果您也想为这份列表做贡献,您可以发起pr或issues提供您的api
