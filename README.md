@@ -25,13 +25,13 @@
   ```
 * 2.不要安装yum,如果你非要用yum那么请允许allmusic的网络请求 
 * 3.我们无偿提供公开api,请不要滥用服务
-* 4.若发现失效的api,请发出issues
+* 4.若发现失效的api,请发出issues (检测api是否失效时请随便调用一个接口试试,不要看主页能不能打开)
 * 5.我们不保证下列api是安全的,如有疑虑,请不要使用
 
 ### API地址列表
 * http://music.s-yh-china.com
 * http://api.mirai.cloud:3000
-* https://api.aliserver.net/zmusicapi 没失效,主页屏蔽了而已
+* https://api.aliserver.net/allmusic
 
 ### 加入此列表
 如果您也想为这份列表做贡献,您可以发起pr或issues提供您的api
