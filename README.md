@@ -8,7 +8,7 @@
 ### 使用方法
 * 1.修改AllMusic服务端插件插件配置"config.json"中"Music_Url"一条为下列提供的api,例如:
   ```json
-  "Music_Url": "http://music.s-yh-china.com",
+  "Music_Url": "https://api.aliserver.net/allmusic",
   ```
 * 2.修改"config.json"中"Music_Api"一条为2
   ```json
