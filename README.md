@@ -29,7 +29,7 @@
 * 5.我们不保证下列api是安全的,如有疑虑,请不要使用
 
 ### API地址列表
-* http://music.s-yh-china.com [暂时失效]
+* http://music.s-yh-china.com
 * http://api.mirai.cloud:3000
 * https://api.aliserver.net/allmusic
 
