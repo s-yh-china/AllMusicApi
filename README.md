@@ -31,7 +31,6 @@
 ### API地址列表
 * http://music.s-yh-china.com [不稳定]
 * http://api.mirai.cloud:3000
-* https://api.aliserver.net/allmusic
 * https://api.meteorpc.cn
 
 ### 加入此列表
